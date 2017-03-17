@@ -1,11 +1,11 @@
 ﻿Ejercicio GitHub
 
 1. Cree mi repositorio en GitHub.
-![repositorio](/images/newRepo.png)
-![repositorio](/images/newRepoTwo.png)
+![repositorio](/leccion-12_laboratoria/images/newRepo.png)
+![repositorio](/leccion-12_laboratoria/images/newRepoTwo.png)
 
 2. Me posicione en la carpeta.
-![repositorio](/images/terminaitor.png)
+![repositorio](/leccion-12_laboratoria/images/terminaitor.png)
 
 3. git init ---> inicialización de git.
 
