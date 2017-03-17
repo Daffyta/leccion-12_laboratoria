@@ -1,4 +1,4 @@
-﻿### Comandos GitHub
+### Comandos GitHub
 
 ## git init
 ## git add .
